@@ -1,5 +1,8 @@
 _repo: New-Nick-Carter-weekly-no-28_69108
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69108-h/images/cover.jpg
 creator:
   author:
     agent_name: Carter, Nicholas (House name)
@@ -15,6 +18,8 @@ creator:
     gutenberg_agent_id: '55107'
     url: http://www.gutenberg.org/2009/agents/55107
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69108#New-Nick-Carter-weekly-no-28
 gutenberg_issued: '2022-10-07'
 identifiers:
   gutenberg: '69108'
